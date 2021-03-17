@@ -1,4 +1,4 @@
-# ** This is a summarisation for some chapters selected from HTML&CSS- design and build websites, written by Jon Duckett:**
+# **This is a summarisation for some chapters selected from HTML&CSS- design and build websites, written by Jon Duckett:**
 ## **chapter 18:Process & Design**
 This chapter aims at providing the web-developer of the process required for creating new web site: 
 -  **First Step:** *Determine the the web site audiance that the site target*; At the level of the individual we may intrest in : users age range, the users' countries, level of education for the users,  users' income, users' occupation,and no of the working hours. For companies, the major points that we may intrest to know when creat the web site is: the size of company, position of people in the company who visit your site, amount of budget that the company control. 
