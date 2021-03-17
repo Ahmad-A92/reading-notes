@@ -21,9 +21,25 @@ You can use grouping and similarity to help simplify
 ### **grouping and Similarity:** 
 When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. There are many ways this can be achieved including: Proximity, Closure, Continuance, White Space, color, Borders. 
 ## **chapter 17:HTML5 Layout** 
+The following point is a summarization for HTML elements mentioned at this chapter: \n 
 - **<div> elements:** it is used o group together related elements on the page (such as the elements that form a header, an article, footer or sidebar).Authors used class or id attributes to indicate the role of the <div> element in the structure of the page. 
-
-
-
+- **<header>& <footer> elements:** They can be used for: The main header or footer that appears at the top or bottom of every page on the site. Also, for A header or footer for an individual <article> or <section> within the page.
+- **<nav> element:** The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
+- **<article>:**It is acts as a container for any section of a page that could stand alone and potentially be syndicated. This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
+- **<aside> element:** The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an <article>
+element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
+- **<section> element:** it groups related content together, and typically each section would have its own heading.
+- **<hgroup> element:**The purpose of the this element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
+- **<figure> element:** It can be used to contain any content that is referenced from the main flow of an article  such as images.
+- **<div> element:** It is an important way to group together related elements. 
+## **chapter 8:Extra Markup** 
+ - **<!DOCTYPE html>:** Because there have been several versions of HTML, each web page should begin with a DOCTYPE declaration to tell a browser which version of HTML the page is using.
+ - **<!-- --> element**: if developer want to add a comment to the HTML code that will not be visible in the user's browser, he can add the text between these characters. 
+ - **ID Attribute:** Every HTML element can carry the id attribute. It is used to uniquely identify that element from other elements on the page. Its value should start with a letter or an underscore (not a number or any other character). It is important that no two elements on the same page have the same value for their id attributes (otherwise the value is no longer unique). for example: '<p id="pullquote">'
+ - **Class Attribute:** Every HTML element can also carry a class attribute. Sometimes, rather than uniquely identifying one element within a document, you will want a 
+way to identify several elements as being different from the other elements on the page.
+ - **<iframe> element:** An iframe is like a little window that has been cut into your page — and in that window you can see another page. The term iframe is an abbreviation of inline frame. There are a few attributes that used within this element: *scr*is for specifies the URL of the page to show in the frame, *height* is for determine the height of the frame in pixels, *width* is to specifies the width attribute the iframe in pixels.
+ - **<meta> element:** This element lives inside the <head> element and contains information about that web page.It uses attributes to carry the information. The most common attributes are the name and content attributes, which tend to be used together.
+ 
 
 
