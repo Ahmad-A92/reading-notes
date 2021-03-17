@@ -21,7 +21,7 @@ You can use grouping and similarity to help simplify
 ### **grouping and Similarity:** 
 When making sense of a design, we tend to organize visual elements into groups. Grouping related pieces of information together can make a design easier to comprehend. There are many ways this can be achieved including: Proximity, Closure, Continuance, White Space, color, Borders. 
 ## **chapter 17:HTML5 Layout** 
-The following point is a summarization for HTML elements mentioned at this chapter: \n 
+The following point is a summarization for HTML elements mentioned at this chapter: 
 - **div elements:** it is used o group together related elements on the page (such as the elements that form a header, an article, footer or sidebar).Authors used class or id attributes to indicate the role of the div element in the structure of the page. 
 - **header & footer  elements:** They can be used for: The main header or footer that appears at the top or bottom of every page on the site. Also, for A header or footer for an individual article or section within the page.
 - **nav element:** The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
@@ -29,7 +29,6 @@ The following point is a summarization for HTML elements mentioned at this chapt
 - **aside element:** The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an article
 element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
 - **section element:** it groups related content together, and typically each section would have its own heading.
-- **hgroup element:**The purpose of the this element is to group together a set of one or more <h1> through <h6> elements so that they are treated as one single heading.
 - **figure element:** It can be used to contain any content that is referenced from the main flow of an article  such as images.
 - **div element:** It is an important way to group together related elements. 
 ## **chapter 8:Extra Markup** 
