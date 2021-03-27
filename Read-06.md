@@ -31,3 +31,4 @@ another way to specify colors
 -  HSLA: it is an additional way that introduced by CSS3, which stands for hue, saturation, lightness, and Alpha values.**Hue**; Hue is the colloquial idea of color. In HSL colors, hue is often represented as a color circle where the angle represents the color, although it may also be shown as a slider with values from 0 to 360. ***Saturation**;Saturation is the amount of gray in a color. Saturation is represented as a percentage. 100% is full saturation and 0% is a shade of gray.**lightness** Lightness is the amount of white (lightness) or black (darkness) in a color. Lightness is represented as a percentage. 0% lightness is black, 100% lightness is white, and 50% lightness is normal. Lightness is sometimes referred to as luminosity. **Alpha** This is expressed as a number between 0 and 1.0. For example, 0.5 represents
 50% transparency, and 0.75 represents 75% transparency.
 
+

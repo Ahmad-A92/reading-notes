@@ -26,7 +26,7 @@ The following point is a summarization for HTML elements mentioned at this chapt
 - **header & footer  elements:** They can be used for: The main header or footer that appears at the top or bottom of every page on the site. Also, for A header or footer for an individual article or section within the page.
 - **nav element:** The <nav> element is used to contain the major navigational blocks on the site such as the primary site navigation.
 - **article element:**It is acts as a container for any section of a page that could stand alone and potentially be syndicated. This could be an individual article or blog entry, a comment or forum post, or any other independent piece of content.
-- **aside element:** The <aside> element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an article
+- **aside element:** The `<aside>` element has two purposes, depending on whether it is inside an <article> element or not. When the <aside> element is used inside an article
 element, it should contain information that is related to the article but not essential to its overall meaning. For example, a pullquote or glossary might be considered as an aside to the article it relates to. When the <aside> element is used outside of an <article> element, it acts as a container for content that is related to the entire page. For example, it might contain links to other sections of the site, a list of recent posts, a search box, or recent tweets by the author.
 - **section element:** it groups related content together, and typically each section would have its own heading.
 - **figure element:** It can be used to contain any content that is referenced from the main flow of an article  such as images.
